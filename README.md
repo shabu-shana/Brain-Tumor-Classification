@@ -1,1 +1,1 @@
-# Brain-Tumor-CLassification
+# Brain-Tumor-Classification
